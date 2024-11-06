@@ -7,7 +7,7 @@
     <img src="https://img.freepik.com/premium-vector/cute-happy-egg-character-funny-jump-egg-cartoon-emoticon-flat-style-chick-emoji-vector_841552-285.jpg" alt="Logo" >
   </a>
 
-<h2 align="center">Node JS / Typescript</h2>
+<h2 align="center">Happy Egg Backend</h2>
   <p align="center">
     Happy Egg Backend is an Node js project containing all call services related happy egg organization. It includes configuration files for CI/CD pipelines (GitHub Actions).
     <br />
