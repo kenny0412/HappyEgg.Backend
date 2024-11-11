@@ -1,4 +1,4 @@
-import app from './src/app'
+import app from './src/app.js'
 
 app.use((_, res, next) => {
   // Access domain allowed
@@ -13,9 +13,9 @@ app.use((_, res, next) => {
   next()
 })
 /**
- ** Server Activation
- */
-const PORT = process.env.PORT ?? 0
+     ** Server Activation
+     */
+const PORT = process.env.PORT ?? 3000
 app.listen(PORT, () => {
   console.log(`Server listening on http://localhost:${PORT}`)
 })
